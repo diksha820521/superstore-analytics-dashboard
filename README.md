@@ -1,6 +1,6 @@
 # 📊 Superstore Analytics Dashboard
 
-An interactive business intelligence dashboard built using React, Vite, and Recharts to analyze retail sales performance using the Superstore Sales dataset sourced from Kaggle.
+An interactive business intelligence dashboard built using React, Vite and Recharts to analyze retail sales performance using the Superstore Sales dataset sourced from Kaggle.
 
 ---
 
@@ -42,15 +42,15 @@ Retail Superstore Sales Dataset sourced from Kaggle.
 
 ## 📸 Dashboard Preview
 
-<img width="1912" height="818" alt="image" src="https://github.com/user-attachments/assets/40c194bf-a420-4906-a28d-cb4fd427aa29" />
+<img width="1915" height="708" alt="image" src="https://github.com/user-attachments/assets/e13cb308-8186-4d6a-b5d8-4bf47762e0bb" />
 
-<img width="1919" height="770" alt="image" src="https://github.com/user-attachments/assets/9a394a7e-7f6d-4d34-b185-1929c99a5434" />
+<img width="1908" height="757" alt="image" src="https://github.com/user-attachments/assets/d2a53306-e81c-42a1-a1ec-7586c5dcdf86" />
 
-<img width="1919" height="761" alt="image" src="https://github.com/user-attachments/assets/8c16cee4-643c-4fea-9be9-cddbde18c425" />
+<img width="1919" height="602" alt="image" src="https://github.com/user-attachments/assets/6d459e75-0864-4be1-89ca-49a5f1f88bf2" />
 
-<img width="1919" height="758" alt="image" src="https://github.com/user-attachments/assets/3f6c304a-448a-48b7-8ae4-0db298e72eb8" />
+<img width="1915" height="658" alt="image" src="https://github.com/user-attachments/assets/832ba377-0d00-4a53-a9ba-583c595b0efc" />
 
-
+<img width="1919" height="727" alt="image" src="https://github.com/user-attachments/assets/9231c03d-3904-4ff9-921a-5cec1b937151" />
 
 ---
 
