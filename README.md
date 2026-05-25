@@ -42,15 +42,7 @@ Retail Superstore Sales Dataset sourced from Kaggle.
 
 ## 📸 Dashboard Preview
 
-<img width="1915" height="708" alt="image" src="https://github.com/user-attachments/assets/e13cb308-8186-4d6a-b5d8-4bf47762e0bb" />
-
-<img width="1908" height="757" alt="image" src="https://github.com/user-attachments/assets/d2a53306-e81c-42a1-a1ec-7586c5dcdf86" />
-
-<img width="1919" height="602" alt="image" src="https://github.com/user-attachments/assets/6d459e75-0864-4be1-89ca-49a5f1f88bf2" />
-
-<img width="1915" height="658" alt="image" src="https://github.com/user-attachments/assets/832ba377-0d00-4a53-a9ba-583c595b0efc" />
-
-<img width="1919" height="727" alt="image" src="https://github.com/user-attachments/assets/9231c03d-3904-4ff9-921a-5cec1b937151" />
+<img width="1920" height="4020" alt="screencapture-superstore-analytics-dashboard-gold-vercel-app-2026-05-26-01_00_04" src="https://github.com/user-attachments/assets/3edab016-30fc-4a8a-adaa-f6d950e2520e" />
 
 ---
 
