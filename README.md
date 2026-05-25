@@ -1,16 +1,29 @@
-# React + Vite
+# Superstore Analytics Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive business intelligence dashboard built using React, Vite, and Recharts based on the Tableau Superstore dataset.
 
-Currently, two official plugins are available:
+## Features
+- KPI Cards for Sales, Profit, Margin, and Orders
+- Dynamic Filters (Region, Category, Year, Segment)
+- Interactive Charts & Visualizations
+- Profitability Analysis
+- Discount vs Profit Insights
+- Region × Segment Heatmap
+- Customer & State Performance Analytics
+- Smart Business Insights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+- React.js
+- Vite
+- Recharts
+- Lucide React
+- Tailwind-style utility classes
 
-## React Compiler
+## Dataset
+Tableau Sample Superstore Dataset (2014–2017)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
+npm run dev
