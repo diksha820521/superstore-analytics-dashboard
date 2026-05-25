@@ -20,7 +20,7 @@ An interactive business intelligence dashboard built using React, Vite, and Rech
 - Tailwind-style utility classes
 
 ## Dataset
-Tableau Sample Superstore Dataset (2014–2017)
+Superstore Sales Dataset sourced from Kaggle.
 
 ## Installation
 
