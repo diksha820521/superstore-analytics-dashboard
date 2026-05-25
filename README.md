@@ -5,7 +5,7 @@ An interactive business intelligence dashboard built using React, Vite and Recha
 ---
 
 ## 🚀 Live Demo
-https://your-vercel-link.vercel.app
+https://superstore-analytics-dashboard-gold.vercel.app/
 
 ---
 
